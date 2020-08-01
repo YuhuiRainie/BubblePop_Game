@@ -1,10 +1,4 @@
-//
-//  bubblepopUITests.swift
-//  bubblepopUITests
-//
-//  Created by Nicholas Yee on 30/4/18.
-//  Copyright © 2018 Nicholas Yee. All rights reserved.
-//
+
 
 import XCTest
 
